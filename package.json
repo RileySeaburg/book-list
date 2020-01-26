@@ -1,0 +1,25 @@
+{
+  "name": "book-list",
+  "version": "1.0.0",
+  "description": "A Vanilla Javascript Project demonstrating OOP and ES6 classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdsmarketing/book-list.git"
+  },
+  "keywords": [
+    "javascript",
+    "vanallajs",
+    "traversymedia",
+    "rileyseaburg"
+  ],
+  "author": "Riley Seaburg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdsmarketing/book-list/issues"
+  },
+  "homepage": "https://github.com/rdsmarketing/book-list#readme"
+}
