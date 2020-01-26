@@ -8,8 +8,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/rdsmarketing/book-list.svg)](https://github.com/rdsmarketing/book-list/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/rdsmarketing/book-list.svg)](https://github.com/rdsmarketing/book-list/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -67,9 +67,9 @@ localhost:5500
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@riley.seaburg](https://github.com/rdsmarketing) - Idea & Initial work
+- [@riley.seaburg](https://github.com/rdsmarketing) - Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/rdsmarketing/book-list/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
